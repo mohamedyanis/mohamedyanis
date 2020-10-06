@@ -21,7 +21,7 @@
 - I made a lot of talks and workshops in events.
 - I am always interesting about learning and develop myself.
 - Enjoy helping other developers by answer their questions.
-- Interested in disseminating digital knowledge (posting about technology in my social media pages, and make a Youtube tutorials).
+- Interested in disseminating digital knowledge (posting technology content in my social media pages, and make Youtube tutorials).
 
 Sport:
 - VolleyBall & Beach VolleyBall Player 🏐.
