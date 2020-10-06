@@ -27,9 +27,7 @@ Sport:
 - VolleyBall & Beach VolleyBall Player 🏐.
 
 Hobbies:
-- Photography 📸.
-- Drawing 🖌.
-- Writing ✒.
+- Photography 📸, Drawing 🖌, Writing ✒.
 
 ### Some statistics:
 
