@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/mohamedyanis/mohamedyanis.svg)](http://hits.dwyl.com/mohamedyanis/mohamedyanis)
 
 - 🎓 Technology Science Engineering Student.
-- 🌍 Algerian, Muslim 🇩🇿
+- 🌍 Algerian, Muslim.
 - 🌱 Co-Founder at <a href="http://itdrops.ga"> ITdrops Company <a/>
 - 💻 Deep Learning & Computer Vision Developer.
 - 👯 I’m looking to collaborate on Python and Robotics related projects.
