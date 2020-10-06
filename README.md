@@ -7,6 +7,7 @@
 - 💻 Deep Learning & Computer Vision Developer.
 - 👯 I’m looking to collaborate on Python and Robotics related projects.
 - 💬 Ask me about Python.
+- 🕷 Insects Lover!
 - 😄 Pronouns: Jinn (evil).
 - ⚡ I'm looking for a new opportunities.
 
@@ -37,8 +38,8 @@ Hobbies:
 
 ### Contact me at:
 
-[![linkedin](https://github.com/mohamedyanis/mohamedyanis/blob/master/icons/linkedin.png)](https://linkedin.com/in/mohamedyanis-hiou) 
-[![twitter](https://github.com/mohamedyanis/mohamedyanis/blob/master/icons/twitter.png)](https://twitter.com/MedYanis_HIOU) 
-[![youtube](https://github.com/mohamedyanis/mohamedyanis/blob/master/icons/youtube.png)](https://youtube.com/https://studio.youtube.com/channel/UC34Ero4b404zqO4wbZoRaHg) 
-[![instagram](https://github.com/mohamedyanis/mohamedyanis/blob/master/icons/instagram.png)](https://instagram.com/medyanis_hiou) 
-[![facebook](https://github.com/mohamedyanis/mohamedyanis/blob/master/icons/facebook.png)](https://facebook.com/MedYanis.HIOU) 
+[![linkedin](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/linkedin.png)](https://linkedin.com/in/mohamedyanis-hiou) 
+[![twitter](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/twitter.png)](https://twitter.com/MedYanis_HIOU) 
+[![youtube](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/youtube.png)](https://youtube.com/https://studio.youtube.com/channel/UC34Ero4b404zqO4wbZoRaHg) 
+[![instagram](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/instagram.png)](https://instagram.com/medyanis_hiou) 
+[![facebook](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/facebook.png)](https://facebook.com/MedYanis.HIOU) 
