@@ -38,8 +38,10 @@ Hobbies:
 
 ### Contact me at:
 
-[![linkedin](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/linkedin.png)](https://linkedin.com/in/mohamedyanis-hiou) 
-[![twitter](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/twitter.png)](https://twitter.com/MedYanis_HIOU) 
-[![youtube](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/youtube.png)](https://youtube.com/https://studio.youtube.com/channel/UC34Ero4b404zqO4wbZoRaHg) 
-[![instagram](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/instagram.png)](https://instagram.com/medyanis_hiou) 
-[![facebook](https://github.com/mohamedyanis/mohamedyanis/tree/main/icons/facebook.png)](https://facebook.com/MedYanis.HIOU) 
+<p align="center">
+  <a href="https://facebook.com/MedYanis.HIOU/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+  <a href="https://instagram.com/medyanis_hiou/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+  <a href="https://twitter.com/MedYanis_HIOU"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://youtube.com/channel/UC34Ero4b404zqO4wbZoRaHg"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
+</p>
+
