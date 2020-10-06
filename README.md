@@ -13,11 +13,10 @@
 
 ## What I do:
 - Python Coder 🐍.
-- Experienced in web development.
+- Web & App development.
 - Electronics & Arduino Projects Creator.
 - 3D Design With SolidWorks 🔗.
 - Artificial Intelligence 🧠 and Robotics 🤖 Enthusiast.
-- Android App Developer with java & Flutter.
 - Founder & Lead at Google Developer student clubs.
 - I made a lot of talks and workshops in events.
 - I am always interesting about learning and develop myself.
