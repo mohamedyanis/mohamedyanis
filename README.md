@@ -26,10 +26,10 @@
 - Enjoy helping other developers by answer their questions.
 - Interested in disseminating digital knowledge (posting technology content in my social media pages, and make Youtube tutorials).
 
-###### Sport:
+#### Sport:
 - VolleyBall & Beach VolleyBall Player 🏐.
 
-###### Hobbies:
+#### Hobbies:
 - Photography 📸, Drawing 🖌, Writing ✒.
 
 ### Some statistics:
