@@ -11,7 +11,9 @@
 - 😄 Pronouns: Jinn (evil).
 - ⚡ I'm looking for a new opportunities.
 <details>
+  
   <summary>Some Details & Statistics</summary>
+  
 ## What I do:
 - Python Coder 🐍.
 - Web & App development.
@@ -35,6 +37,7 @@ Hobbies:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedyanis&show_icons=true)
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyanis&layout=compact)
 </details>
+
 ### Contact me at:
 
 <p align="center">
