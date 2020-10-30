@@ -1,4 +1,4 @@
-### Hi there, I'm Mohamed Yanis HIOU محمد ينيس حيو👋
+## Hi there, I'm Mohamed Yanis HIOU محمد ينيس حيو👋
 [![HitCount](http://hits.dwyl.com/mohamedyanis/mohamedyanis.svg)](http://hits.dwyl.com/mohamedyanis/mohamedyanis)
 
 - 🎓 Technology Science Engineering Student.
@@ -26,10 +26,10 @@
 - Enjoy helping other developers by answer their questions.
 - Interested in disseminating digital knowledge (posting technology content in my social media pages, and make Youtube tutorials).
 
-Sport:
+###### Sport:
 - VolleyBall & Beach VolleyBall Player 🏐.
 
-Hobbies:
+###### Hobbies:
 - Photography 📸, Drawing 🖌, Writing ✒.
 
 ### Some statistics:
