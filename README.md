@@ -3,7 +3,8 @@
 
 - 🎓 Technology Science Engineering Student.
 - 🌍 Algerian, Muslim.
-- 🌱 Co-Founder at <a href="http://itdrops.ga"> ITdrops Company <a/>
+- 🚨 Founder at <a href="https://safe-it.netlify.app"> Safe IT Corp <a/>
+- 🌱 Co-Founder at <a href="https://sites.google.com/view/itdrops/accueil"> ITdrops Company <a/>
 - 💻 Deep Learning & Computer Vision Developer.
 - 👯 I’m looking to collaborate on Python and Robotics related projects.
 - 💬 Ask me about Python.
@@ -20,7 +21,7 @@
 - Electronics & Arduino Projects Creator.
 - 3D Design With SolidWorks 🔗.
 - Artificial Intelligence 🧠 and Robotics 🤖 Enthusiast.
-- Founder & Lead at Google Developer student clubs.
+- Founder & Lead at Google Developer student club.
 - I made a lot of talks and workshops in events.
 - I am always interesting about learning and develop myself.
 - Enjoy helping other developers by answer their questions.
@@ -45,7 +46,7 @@
   <a href="https://instagram.com/medyanis_hiou/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://linkedin.com/in/mohamedyanis-hiou"><img src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" alt="Linkedin"></a>
   <a href="https://twitter.com/MedYanis_HIOU"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://youtube.com/channel/UC34Ero4b404zqO4wbZoRaHg"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
-  <a href="http://medyanis-hiou.me"><img src="https://img.shields.io/badge/WebSite--_.svg?style=social&logo=wordpress" alt="WebSite"></a>
+  <a href="https://www.youtube.com/@medyanis_hiou"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
+  <a href="http://medyanis-hiou.netlify.com"><img src="https://img.shields.io/badge/WebSite--_.svg?style=social&logo=wordpress" alt="WebSite"></a>
 </p>
 
