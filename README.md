@@ -1,4 +1,4 @@
-## Hi there, I'm Mohamed Yanis HIOU محمد ينيس حيو👋
+## Hi there, I'm Mohamed Yanis Hiou محمد ينيس حيو👋
 [![HitCount](http://hits.dwyl.com/mohamedyanis/mohamedyanis.svg)](http://hits.dwyl.com/mohamedyanis/mohamedyanis)
 
 - 🎓 Technology Science Engineering Student.
