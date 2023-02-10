@@ -44,7 +44,7 @@
 <p align="center">
   <a href="https://facebook.com/MedYanis.HIOU/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
   <a href="https://instagram.com/medyanis_hiou/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/mohamedyanis-hiou"><img src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" alt="Linkedin"></a>
+  <a href="https://linkedin.com/in/medyanis-hiou"><img src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin" alt="Linkedin"></a>
   <a href="https://twitter.com/MedYanis_HIOU"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
   <a href="https://www.youtube.com/@medyanis_hiou"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
   <a href="http://medyanis-hiou.netlify.com"><img src="https://img.shields.io/badge/WebSite--_.svg?style=social&logo=wordpress" alt="WebSite"></a>
